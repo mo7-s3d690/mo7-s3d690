@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A101F,100:22D3EE&height=220&section=header&text=Mohamed%20Saad&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Enthusiast%20%C2%B7%20Full-Stack%20Learner%20%C2%B7%20Future%20Data%20Engineer&descAlignY=58&descSize=18&descColor=94A3B8" width="100%"/>
+<img src="https://raw.githubusercontent.com/mo7-s3d690/mo7-s3d690/main/banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=1200&color=22D3EE&center=true&vCenter=true&width=600&lines=CS+Student+%40+FCDS%2C+Alexandria+University;Training+as+a+Microsoft+Data+Engineer+(DEPI);Building+AI+%2F+ML+%2F+Automation+projects" alt="Typing SVG" />
 
