@@ -52,6 +52,7 @@ I'm a second-year Computer Science student at the **Faculty of Computer and Data
 <img src="https://img.shields.io/badge/HTML5-0A101F?style=for-the-badge&logo=html5&logoColor=10B981&labelColor=0A101F" />
 <img src="https://img.shields.io/badge/CSS3-0A101F?style=for-the-badge&logo=css3&logoColor=22D3EE&labelColor=0A101F" />
 
+
 <br/><br/>
 
 **AI / Data Science**
