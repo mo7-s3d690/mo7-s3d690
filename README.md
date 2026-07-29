@@ -52,7 +52,6 @@ I'm a second-year Computer Science student at the **Faculty of Computer and Data
 <img src="https://img.shields.io/badge/HTML5-0A101F?style=for-the-badge&logo=html5&logoColor=10B981&labelColor=0A101F" />
 <img src="https://img.shields.io/badge/CSS3-0A101F?style=for-the-badge&logo=css3&logoColor=22D3EE&labelColor=0A101F" />
 
-
 <br/><br/>
 
 **AI / Data Science**
@@ -97,11 +96,10 @@ A Python automation bot for X (Twitter), handling scripted interactions on the p
 <div align="center">
 <img width="100%" src="https://streak-stats.demolab.com/?user=mo7-s3d690&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE" alt="streak" />
 <br/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mo7-s3d690&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7-s3d690&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" alt="top langs" />
+<img width="49%" src="https://github-readme-stats-khaki-nine-78.vercel.app/api?username=mo7-s3d690&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="stats" />
+<img width="49%" src="https://github-readme-stats-khaki-nine-78.vercel.app/api/top-langs/?username=mo7-s3d690&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" alt="top langs" />
 </div>
 
-> ⚠️ The two cards above point at the **public** github-readme-stats instance, which frequently hits its rate limit. Self-host your own (20 min, free on Vercel) and swap the domain for `your-instance.vercel.app` — see the checklist below.
 
 <br/>
 
